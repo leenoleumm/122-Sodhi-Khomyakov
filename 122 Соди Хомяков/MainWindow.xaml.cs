@@ -100,6 +100,16 @@ namespace _122_Соди_Хомяков
 
         }
 
+        public void ClickButtonClear(object sender, RoutedEventArgs e)
+        {
+            xInput.Text = "";
+            mInput.Text = "";
+            Answer.Text = "";
+            r1.IsChecked = false;
+            r2.IsChecked = false;
+            r3.IsChecked = false;
+        }
+
         public MainWindow()
         {
             InitializeComponent();
