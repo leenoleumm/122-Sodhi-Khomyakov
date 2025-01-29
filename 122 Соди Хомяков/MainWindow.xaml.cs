@@ -21,7 +21,7 @@ namespace _122_Соди_Хомяков
     public partial class MainWindow : Window
     {
 
-        static int function;
+        static int function = 0;
 
         public void f1(object sender, RoutedEventArgs e)
         {
@@ -43,7 +43,7 @@ namespace _122_Соди_Хомяков
             string x = xInput.Text.ToString();
             string m = mInput.Text.ToString();
 
-            if (x == "" || m == "")
+            if (x == "" || m == "" || function == 0)
             {
                 Answer.Text = "Ошибка";
                 return;
@@ -52,16 +52,49 @@ namespace _122_Соди_Хомяков
             double xD = Convert.ToDouble(x);
             double mD = Convert.ToDouble(m);
 
+            Console.WriteLine(xD);
+            Console.WriteLine(mD);
+
             switch (function)
             {
                 case 1:
-                    Answer.Text = (xD + mD).ToString();
+                    if (xD - mD == 0) {
+                        Answer.Text = (Math.Pow(Math.Sinh(xD), 2) + Math.Pow(mD, 2) + Math.Sin(mD)).ToString();
+                    } else if (xD - mD > 0)
+                    {
+                        Answer.Text = (Math.Pow(Math.Sinh(xD) - mD, 2) + Math.Cos(mD)).ToString();
+                    } else
+                    {
+                        Answer.Text = (Math.Pow(mD - Math.Sinh(xD), 2) + Math.Tan(mD)).ToString();
+                    }
                     break;
                 case 2:
-                    Answer.Text = (xD * mD).ToString();
+                    if (xD - mD == 0)
+                    {
+                        Answer.Text = (Math.Pow(Math.Pow(xD, 2), 2) + Math.Pow(mD, 2) + Math.Sin(mD)).ToString();
+                    }
+                    else if (xD - mD > 0)
+                    {
+                        Answer.Text = (Math.Pow(Math.Pow(xD, 2) - mD, 2) + Math.Cos(mD)).ToString();
+                    }
+                    else
+                    {
+                        Answer.Text = (Math.Pow(mD - Math.Pow(xD, 2), 2) + Math.Tan(mD)).ToString();
+                    }
                     break;
                 case 3:
-                    Answer.Text = (xD - mD).ToString();
+                    if (xD - mD == 0)
+                    {
+                        Answer.Text = (Math.Pow(Math.Exp(xD), 2) + Math.Pow(mD, 2) + Math.Sin(mD)).ToString();
+                    }
+                    else if (xD - mD > 0)
+                    {
+                        Answer.Text = (Math.Pow(Math.Exp(xD) - mD, 2) + Math.Cos(mD)).ToString();
+                    }
+                    else
+                    {
+                        Answer.Text = (Math.Pow(mD - Math.Exp(xD), 2) + Math.Tan(mD)).ToString();
+                    }
                     break;
             }
 
