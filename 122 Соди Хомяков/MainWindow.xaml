@@ -8,14 +8,14 @@
         Title="MainWindow" Height="351" Width="348">
     <Grid HorizontalAlignment="Center" Width="348" Margin="0,0,0,4">
         <Image ToolTip="Задача" Source="C:\Users\227058\Desktop\1.PNG" HorizontalAlignment="Center" Height="89" Margin="0,19,0,0" VerticalAlignment="Top" Width="304"/>
-        <TextBox ToolTip="Введите значение х" HorizontalAlignment="Left" Margin="61,133,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="255"/>
-        <TextBox ToolTip="Введите значение m" HorizontalAlignment="Left" Margin="61,162,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="255"/>
+        <TextBox ToolTip="Введите значение х" HorizontalAlignment="Left" Margin="61,133,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="255" Name="xInput"/>
+        <TextBox ToolTip="Введите значение m" HorizontalAlignment="Left" Margin="61,162,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="255" Name="mInput"/>
         <TextBlock ToolTip="Вы нашли х!!" HorizontalAlignment="Left" Margin="32,133,0,0" TextWrapping="Wrap" Text="x =" VerticalAlignment="Top" RenderTransformOrigin="2.44,0.694"/>
         <TextBlock ToolTip="Вы нашли m!!" HorizontalAlignment="Left" Margin="32,164,0,0" TextWrapping="Wrap" Text="m =" VerticalAlignment="Top"/>
-        <RadioButton ToolTip="Гиперболический синус" Content="sh(x)" HorizontalAlignment="Left" Margin="32,205,0,0" VerticalAlignment="Top"/>
-        <RadioButton ToolTip="Парабола" Content="x^2" HorizontalAlignment="Left" Margin="32,225,0,0" VerticalAlignment="Top"/>
-        <RadioButton ToolTip="Экспонента" Content="e^x" HorizontalAlignment="Left" Margin="32,245,0,0" VerticalAlignment="Top"/>
-        <Button ToolTip="Вычислить значение функции при введённых данных" Content="Вычислить" HorizontalAlignment="Left" Margin="118,205,0,0" VerticalAlignment="Top" Width="198"/>
+        <RadioButton Checked="f1" ToolTip="Гиперболический синус" Content="sh(x)" HorizontalAlignment="Left" Margin="32,205,0,0" VerticalAlignment="Top"/>
+        <RadioButton Checked="f2" ToolTip="Парабола" Content="x^2" HorizontalAlignment="Left" Margin="32,225,0,0" VerticalAlignment="Top"/>
+        <RadioButton Checked="f3" ToolTip="Экспонента" Content="e^x" HorizontalAlignment="Left" Margin="32,245,0,0" VerticalAlignment="Top"/>
+        <Button ToolTip="Вычислить значение функции при введённых данных" Content="Вычислить" HorizontalAlignment="Left" Margin="118,205,0,0" VerticalAlignment="Top" Width="198" Click="ClickButton"/>
         <Button ToolTip="Очистить введённые данные" Content="Очистить" HorizontalAlignment="Left" Margin="118,240,0,0" VerticalAlignment="Top" Width="198"/>
         <TextBlock ToolTip="Правее будет ответ!!" HorizontalAlignment="Left" Margin="32,281,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="2.44,0.694"><Run Text="Ответ"/><Run Language="ru-ru" Text=":"/></TextBlock>
         <TextBlock ToolTip="Ответ будет прям тут!!" x:Name="Answer" HorizontalAlignment="Left" Margin="84,281,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="2.44,0.694" Text="" Width="81"/>
