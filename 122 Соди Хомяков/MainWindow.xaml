@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="351" Width="348">
     <Grid HorizontalAlignment="Center" Width="348" Margin="0,0,0,4">
-        <Image ToolTip="Задача" Source="C:\Users\227058\Desktop\1.PNG" HorizontalAlignment="Center" Height="89" Margin="0,19,0,0" VerticalAlignment="Top" Width="304"/>
+        <Image ToolTip="Задача" Source="equation.png" HorizontalAlignment="Center" Height="89" Margin="0,19,0,0" VerticalAlignment="Top" Width="304"/>
         <TextBox ToolTip="Введите значение х" HorizontalAlignment="Left" Margin="61,133,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="255" Name="xInput"/>
         <TextBox ToolTip="Введите значение m" HorizontalAlignment="Left" Margin="61,162,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="255" Name="mInput"/>
         <TextBlock ToolTip="Вы нашли х!!" HorizontalAlignment="Left" Margin="32,133,0,0" TextWrapping="Wrap" Text="x =" VerticalAlignment="Top" RenderTransformOrigin="2.44,0.694"/>
