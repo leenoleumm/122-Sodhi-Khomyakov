@@ -49,9 +49,18 @@ namespace _122_Соди_Хомяков
                 return;
             }
 
-            double xD = Convert.ToDouble(x);
-            double mD = Convert.ToDouble(m);
+            double xD = 0;
+            double mD = 0;
 
+            try
+            {
+                xD = Convert.ToDouble(x);
+                mD = Convert.ToDouble(m);
+            }
+            catch {
+                Answer.Text = "Ошибка";
+                return;
+            }
             Console.WriteLine(xD);
             Console.WriteLine(mD);
 
