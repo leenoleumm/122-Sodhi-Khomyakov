@@ -1,0 +1,15 @@
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/galaxy/bin/Debug/net7.0/galaxy
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/galaxy/bin/Debug/net7.0/galaxy.deps.json
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/galaxy/bin/Debug/net7.0/galaxy.runtimeconfig.json
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/galaxy/bin/Debug/net7.0/galaxy.dll
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/galaxy/bin/Debug/net7.0/galaxy.pdb
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/galaxy/obj/Debug/net7.0/galaxy.csproj.AssemblyReference.cache
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/galaxy/obj/Debug/net7.0/galaxy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/galaxy/obj/Debug/net7.0/galaxy.AssemblyInfoInputs.cache
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/galaxy/obj/Debug/net7.0/galaxy.AssemblyInfo.cs
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/galaxy/obj/Debug/net7.0/galaxy.csproj.CoreCompileInputs.cache
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/galaxy/obj/Debug/net7.0/galaxy.dll
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/galaxy/obj/Debug/net7.0/refint/galaxy.dll
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/galaxy/obj/Debug/net7.0/galaxy.pdb
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/galaxy/obj/Debug/net7.0/galaxy.genruntimeconfig.cache
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/galaxy/obj/Debug/net7.0/ref/galaxy.dll
