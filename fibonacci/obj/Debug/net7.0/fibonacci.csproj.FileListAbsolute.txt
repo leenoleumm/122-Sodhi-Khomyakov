@@ -1,0 +1,15 @@
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/fibonacci/bin/Debug/net7.0/fibonacci
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/fibonacci/bin/Debug/net7.0/fibonacci.deps.json
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/fibonacci/bin/Debug/net7.0/fibonacci.runtimeconfig.json
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/fibonacci/bin/Debug/net7.0/fibonacci.dll
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/fibonacci/bin/Debug/net7.0/fibonacci.pdb
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/fibonacci/obj/Debug/net7.0/fibonacci.csproj.AssemblyReference.cache
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/fibonacci/obj/Debug/net7.0/fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/fibonacci/obj/Debug/net7.0/fibonacci.AssemblyInfoInputs.cache
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/fibonacci/obj/Debug/net7.0/fibonacci.AssemblyInfo.cs
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/fibonacci/obj/Debug/net7.0/fibonacci.csproj.CoreCompileInputs.cache
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/fibonacci/obj/Debug/net7.0/fibonacci.dll
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/fibonacci/obj/Debug/net7.0/refint/fibonacci.dll
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/fibonacci/obj/Debug/net7.0/fibonacci.pdb
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/fibonacci/obj/Debug/net7.0/fibonacci.genruntimeconfig.cache
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/fibonacci/obj/Debug/net7.0/ref/fibonacci.dll
