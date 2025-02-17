@@ -1,0 +1,15 @@
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/letters/bin/Debug/net7.0/letters
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/letters/bin/Debug/net7.0/letters.deps.json
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/letters/bin/Debug/net7.0/letters.runtimeconfig.json
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/letters/bin/Debug/net7.0/letters.dll
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/letters/bin/Debug/net7.0/letters.pdb
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/letters/obj/Debug/net7.0/letters.csproj.AssemblyReference.cache
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/letters/obj/Debug/net7.0/letters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/letters/obj/Debug/net7.0/letters.AssemblyInfoInputs.cache
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/letters/obj/Debug/net7.0/letters.AssemblyInfo.cs
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/letters/obj/Debug/net7.0/letters.csproj.CoreCompileInputs.cache
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/letters/obj/Debug/net7.0/letters.dll
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/letters/obj/Debug/net7.0/refint/letters.dll
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/letters/obj/Debug/net7.0/letters.pdb
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/letters/obj/Debug/net7.0/letters.genruntimeconfig.cache
+/Users/mrdokki/Desktop/3 курс/Поддержка и тестирование программных модулей/122-Sodhi-Khomyakov/letters/obj/Debug/net7.0/ref/letters.dll
