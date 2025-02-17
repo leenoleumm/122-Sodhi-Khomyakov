@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\227058\\source\\repos\\122-Sodhi-Khomyakov3\\fibonacci_debug\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{794A2D21-D303-403F-BA08-85A16CF5AEEB}|fibonacci_debug\\fibonacci_debug.csproj|c:\\users\\227058\\source\\repos\\122-sodhi-khomyakov3\\fibonacci_debug\\fibonacci_debug\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{794A2D21-D303-403F-BA08-85A16CF5AEEB}|fibonacci_debug\\fibonacci_debug.csproj|solutionrelative:fibonacci_debug\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\227058\\source\\repos\\122-Sodhi-Khomyakov3\\fibonacci_debug\\fibonacci_debug\\Program.cs",
+              "RelativeDocumentMoniker": "fibonacci_debug\\Program.cs",
+              "ToolTip": "C:\\Users\\227058\\source\\repos\\122-Sodhi-Khomyakov3\\fibonacci_debug\\fibonacci_debug\\Program.cs",
+              "RelativeToolTip": "fibonacci_debug\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T10:14:18.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
